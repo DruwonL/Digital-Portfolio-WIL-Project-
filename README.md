@@ -9,9 +9,8 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 
 **My Role:** I was responsible for **compiling team research, data, and deliverables** into a **professional, responsive website** that communicates Huawei's enterprise vision and IASC's mission.
 
-> ✅ **Live Project:** [View Huawei IASC Website](#)  
-> ✅ **GitHub Repository:** [Source Code](#)  
-> ✅ **Blackboard Submission:** Submitted
+> ✅ **Live Project:** [View Huawei IASC Website](https://druwonl.github.io/Huawei-Project/)  
+> ✅ **GitHub Repository:** [Source Code](https://github.com/DruwonL/Huawei-Project)
 
 ---
 
@@ -121,7 +120,6 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 | **STAR reflections** completed                 | ✅ Done    |
 | **GitHub repository** contains all files      | ✅ Done    |
 | **Links verified** and accessible             | ✅ Done    |
-| Submitted to **Blackboard** before deadline   | ✅ Done    |
 | Local copy saved with **timestamp**           | ✅ Done    |
 
 ---
