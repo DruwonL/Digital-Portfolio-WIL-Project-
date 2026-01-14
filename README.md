@@ -1,4 +1,4 @@
-# 🏢 Digital Portfolio: WIL Experience – Huawei IASC "About Us" Page  
+# Digital Portfolio: WIL Experience – Huawei IASC "About Us" Page  
 ### PRP370S Project Presentation 3 | January 2026
 
 ---
@@ -118,17 +118,3 @@ This visual representation of the wireframe was created before I began developin
 - 📧 **[Email Contact](mailto: druwon.lashawa.wicomb@gmail.com)**
 
 ---
-
-> **Note:** This portfolio was created for assessment purposes as part of PRP370S at CPUT. The Huawei IASC website project was developed during my Work Integrated Learning placement. All work is my own and complies with academic integrity policies. [View CPUT academic integrity policy](https://www.cput.ac.za/assets/images/policies/Academic%20Integrity%20Policy.pdf).
-
----
-
-**Last Updated:** 14 January 2026  
-**Portfolio Version:** 1.0  
-**Status:** 🚀 **Ready for Assessment**
-
----
-
-<div align="center">
-  <sub>Built with ❤️ using Markdown • Hosted on GitHub Pages</sub>
-</div>
