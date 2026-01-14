@@ -85,14 +85,11 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 
 ---
 
-## 🏆 Assessment Alignment
+## Evidence in This Portfolio
 
-| **Rubric Criteria** | **Evidence in This Portfolio** |
-|---------------------|--------------------------------|
-| **WIL Evidence (50%)** | ✅ [Huawei IASC About Us page](https://druwonl.github.io/Huawei-Project/about)<br>✅ [GitHub code contributions](https://github.com/DruwonL/Huawei-Project/commits?author=DruwonL)<br>✅ [Brand implementation](https://github.com/DruwonL/Huawei-Project/blob/main/about/styles.css#L1-L20)<br>✅ [Team collaboration evidence](https://github.com/DruwonL/Huawei-Project/pulls?q=is%3Apr+author%3ADruwonL) |
-| **STAR Reflection on WIL (50%)** | ✅ Two detailed STAR reflections above<br>✅ Specific examples from About Us page development<br>✅ Demonstrated learning in both technical and collaborative skills |
-| **Lessons Learnt Evidence** | ✅ [Code documentation](https://github.com/DruwonL/Huawei-Project/tree/main/docs)<br>✅ [CSS modular system](https://github.com/DruwonL/Huawei-Project/blob/main/about/styles.css)<br>✅ [GitHub workflow practices](https://github.com/DruwonL/Huawei-Project/commits/main) |
-| **STAR Reflection on Lessons** | ✅ Reflection on team collaboration challenges and solutions<br>✅ Technical problem-solving from real development scenarios |
+This visual representation of the wireframe was created before I began developing the webpage. Its purpose was to enable our team leader to review the layout and offer feedback on what elements should be included or excluded.
+
+<img width="2040" height="4343" alt="Huawei Wireframe" src="https://github.com/user-attachments/assets/7d5e80eb-cfe9-44be-8585-14d3880db098" />
 
 ---
 
