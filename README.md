@@ -112,10 +112,10 @@ This visual representation of the wireframe was created before I began developin
 ## 📎 Quick Links
 
 - 🔗 **[GitHub Repository](https://github.com/DruwonL/Huawei-Project)**
-- 🔗 **[My About Us Page Code](https://github.com/DruwonL/Huawei-Project/tree/main/about)**
+- 🔗 **[My About Us Page Code](https://github.com/DruwonL/Huawei-Project)**
 - 🔗 **[CPUT Assessment Guidelines](https://www.cput.ac.za/academic/assessment)**
 - 🔗 **[PRP370S Module Information](https://cput.blackboard.com)**
-- 📧 **[Email Contact](mailto:[Your Email]@student.cput.ac.za)**
+- 📧 **[Email Contact](mailto: druwon.lashawa.wicomb@gmail.com)**
 
 ---
 
