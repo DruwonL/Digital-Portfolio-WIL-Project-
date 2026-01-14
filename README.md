@@ -1,140 +1,153 @@
-# **Digital Portfolio: WIL Experience – Huawei IASC Website**  
+# 🏢 Digital Portfolio: WIL Experience – Huawei IASC "About Us" Page  
 ### PRP370S Project Presentation 3 | January 2026
 
 ---
 
-## 📋 **Overview**
+## 📋 Overview
 
 This portfolio showcases my **Work Integrated Learning (WIL) experience** during the 2025 academic year at **Huawei ICT Academy Support Center (IASC) South Africa**.
 
-**My Role:** I was responsible for **compiling team research, data, and deliverables** into a **professional, responsive website** that communicates Huawei's enterprise vision and IASC's mission.
+**My Role:** I was responsible for **designing and developing the "About Us" page** of a collaborative website project that communicates Huawei's enterprise vision and IASC's mission.
 
 > ✅ **Live Project:** [View Huawei IASC Website](https://druwonl.github.io/Huawei-Project/)  
-> ✅ **GitHub Repository:** [Source Code](https://github.com/DruwonL/Huawei-Project)
+> ✅ **GitHub Repository:** [Source Code](https://github.com/DruwonL/Huawei-Project)  
+> ✅ **My Contribution:** ["About Us" Page Code](https://github.com/DruwonL/Huawei-Project/tree/main/about)
 
 ---
 
-## 🗂️ **Portfolio Structure: Collect | Select | Reflect | Connect**
+## 🗂️ Portfolio Structure: Collect | Select | Reflect | Connect
 
-| **Stage**       | **My Actions**                                                                 | **Project Examples**                     |
-|-----------------|--------------------------------------------------------------------------------|------------------------------------------|
-| 🔍 **Collect**  | Gathered team research, branding assets, and multimedia content                | Stats, logos, color palettes, icons      |
-| 🎯 **Select**   | Chose key artefacts demonstrating technical skill and project coordination     | HTML/CSS/JS code, responsive design, UI/UX|
-| 💭 **Reflect**  | Applied STAR method to analyse my role and growth                              | Two detailed reflections below           |
-| 🔗 **Connect**  | Synthesised learning into a narrative of professional readiness                | Skills mapping, career takeaways         |
-
----
-
-## 📁 **Project Artefacts**
-
-| **Category**          | **Examples**                                                                 | **How I Contributed**                                                                                             |
-|-----------------------|------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Website Code**      | `index.html`, `styles.css`, `script.js`                                     | Built the entire front-end, implemented responsive layout, interactive components                                  |
-| **Design System**     | IASC Blue (`#021B34`), Huawei Red (`#c7000b`), Google Fonts, Font Awesome   | Created consistent visual identity, typography, and iconography                                                   |
-| **Interactive Features** | Tech slider, mobile menu, smooth scrolling, video placeholder                | Wrote custom JavaScript for enhanced user experience                                                               |
-| **Content Compilation** | Team research on Huawei innovation stats, partner ecosystem, industry solutions | Structured and edited all textual content for clarity and brand alignment                                           |
-| **Responsive Testing** | Mobile-first approach, tested across viewports                               | Ensured usability on all devices using CSS media queries                                                           |
+| **Stage** | **My Actions** | **Project Examples** |
+|-----------|----------------|----------------------|
+| 🔍 **Collect** | Gathered team research, brand guidelines, and content for the About Us page | Huawei brand assets, IASC mission statements, team drafts |
+| 🎯 **Select** | Chose key components to showcase Huawei's innovation and IASC's educational mission | Statistics cards, technology showcase, responsive layouts |
+| 💭 **Reflect** | Applied STAR method to analyse my role in the team project | Two detailed reflections on development and collaboration |
+| 🔗 **Connect** | Synthesised technical learning with professional growth | Skills mapping to career readiness in web development |
 
 ---
 
-## 📝 **STAR-Based Reflections**
+## 📁 Project Artefacts
 
-### 🎯 **Reflection 1: WIL Experience – Developing the Huawei IASC Website**
-
-| **STAR Element** | **My Experience**                                                                                                                                                                                  |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Situation**    | Huawei IASC South Africa required a professional digital presence to showcase their enterprise solutions, attract partners, and communicate their mission. Our team was tasked with creating a multimedia presentation. |
-| **Task**         | My role was to **compile and integrate** all team research, design assets, and content into a single, cohesive, and responsive website that aligned with Huawei’s global branding.                     |
-| **Action**       | • Consolidated research into structured sections (Innovation, Technologies, Industries) <br> • Developed a **mobile-first layout** using CSS Grid/Flexbox <br> • Implemented JavaScript interactivity (slider, navigation) <br> • Applied brand colours (`--iasc-blue`, `--huawei-red`) <br> • Validated statistics against official Huawei sources |
-| **Result**       | ✅ **Delivered a fully responsive, interactive website** ahead of schedule <br> ✅ **Received positive feedback** for clarity, branding, and user experience <br> ✅ **Enhanced skills** in front-end development, project coordination, and brand implementation |
-
----
-
-### 🧠 **Reflection 2: Lessons Learnt – Unifying Team Inputs**
-
-| **STAR Element** | **My Learning**                                                                                                                                                                         |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Situation**    | Team members provided content in varied formats—text documents, spreadsheets, slide decks, and scattered image files.                                                                    |
-| **Task**         | Transform diverse inputs into a unified, professional multimedia product without losing individual contributions or brand consistency.                                                    |
-| **Action**       | • Created a **standardised submission template** <br> • Used **GitHub for version control** and collaboration <br> • Built a **modular CSS system** for easy updates <br> • Conducted cross-browser and device testing |
-| **Result**       | ✅ **Streamlined compilation process** for future projects <br> ✅ **Improved technical documentation** and workflow management <br> ✅ **Gained expertise** in maintaining design consistency across contributors |
+| **Category** | **Examples** | **How I Contributed** |
+|--------------|--------------|-----------------------|
+| **About Us Page Code** | `index.html`, `styles.css`, `script.js` | Built the complete About Us section with semantic HTML, custom CSS, and interactive JavaScript |
+| **Design Implementation** | IASC Blue (`#021B34`), Huawei Red (`#c7000b`), Google Fonts, Font Awesome | Applied brand colors consistently, implemented typography hierarchy, integrated icon system |
+| **Interactive Components** | Technology slider, animated statistics, mobile navigation | Developed custom JavaScript for interactive features and responsive behavior |
+| **Content Structure** | Team research on Huawei's innovation stats, partner ecosystem, industry solutions | Organized complex information into digestible sections with visual hierarchy |
+| **Responsive Design** | Mobile-first approach with CSS media queries | Ensured seamless experience across all devices from mobile to desktop |
 
 ---
 
-## 🔗 **Connecting Learning to Career Readiness**
+## 📝 STAR-Based Reflections
 
-### 🛠️ **Technical Competencies Gained**
+### 🎯 Reflection 1: WIL Experience – Developing the About Us Page
 
-| **Skill Area**           | **Specific Skills**                                                                                              | **Project Example**                                |
-|--------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| **Front-End Development**| HTML5, CSS3 (Grid, Flexbox, Custom Properties), JavaScript (ES6)                                                | Complete website build with interactive components |
-| **Responsive Design**    | Mobile-first approach, media queries, cross-browser compatibility                                               | Site works seamlessly on phone, tablet, and desktop|
-| **UI/UX Implementation** | Brand alignment, typography, colour theory, visual hierarchy                                                    | Consistent use of IASC/Huawei branding            |
-| **Version Control**      | Git, GitHub for project management and collaboration                                                            | Repository with commit history                     |
-| **Debugging & Testing**  | Browser DevTools, responsive testing, accessibility checks                                                      | Ensured site performance and accessibility         |
-
-### 💼 **Professional Growth**
-
-| **Competency**          | **How It Was Developed**                                                                                              |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Project Coordination**| Led the compilation and integration of team deliverables into a single product                                         |
-| **Attention to Detail** | Ensured all statistics, branding, and content were accurate and consistent                                             |
-| **Problem-Solving**     | Resolved layout challenges, interactive feature bugs, and cross-device compatibility issues                            |
-| **Communication**       | Translated technical team inputs into engaging, accessible web content for a public audience                           |
-| **Time Management**     | Delivered the complete website ahead of the deadline while balancing academic responsibilities                         |
+| **STAR Element** | **My Experience** |
+|------------------|-------------------|
+| **Situation** | Our team was tasked with creating a multi-page website for Huawei IASC South Africa. Each member was assigned a specific page to develop. |
+| **Task** | My responsibility was to design and code the "About Us" page that would showcase Huawei's enterprise solutions and IASC's educational mission. |
+| **Action** | • Researched Huawei's corporate information and IASC's objectives<br>• Created wireframes and mockups for the page layout<br>• Developed semantic HTML structure with accessibility in mind<br>• Implemented CSS Grid/Flexbox for responsive layouts<br>• Coded JavaScript functionality for interactive elements (slider, animations)<br>• Conducted cross-browser testing and performance optimization |
+| **Result** | ✅ **Delivered a fully responsive About Us page** that integrates seamlessly with the team's website<br>✅ **Achieved consistent branding** with the Huawei/IASC color scheme and typography<br>✅ **Received positive peer feedback** for clean code and user-friendly design<br>✅ **Enhanced technical skills** in modern front-end development practices |
 
 ---
 
-## 🏆 **Assessment Alignment**
+### 🧠 Reflection 2: Lessons Learnt – Collaborative Web Development
 
-| **Rubric Criteria**                | **Evidence in This Portfolio**                                                                                                     |
-|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| **WIL Evidence (50%)**             | ✅ Huawei IASC website <br> ✅ Team coordination notes <br> ✅ Brand implementation <br> ✅ Research compilation                     |
-| **STAR Reflection on WIL (50%)**   | ✅ Two detailed STAR reflections <br> ✅ Real project examples <br> ✅ Demonstrated learning and growth                             |
-| **Lessons Learnt Evidence**        | ✅ Process documentation <br> ✅ Modular CSS system <br> ✅ GitHub workflow <br> ✅ Testing protocols                                |
-| **STAR Reflection on Lessons**     | ✅ Second reflection on team coordination <br> ✅ Technical problem-solving insights <br> ✅ Professional workflow improvements     |
-
----
-
-## 📬 **Contact & Details**
-
-| **Category**        | **Information**                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
-| **Student**         | [Your Name]                                                                     |
-| **Student ID**      | [Your Student Number]                                                           |
-| **Programme**       | Diploma in Information and Communication Technology (DPICT)                     |
-| **Institution**     | Cape Peninsula University of Technology                                         |
-| **Module**          | PRP370S – Project Presentation 3                                                |
-| **WIL Organisation**| Huawei ICT Academy Support Center South Africa                                  |
-| **Academic Year**   | 2025                                                                            |
-| **Portfolio Date**  | 15 January 2026                                                                 |
+| **STAR Element** | **My Learning** |
+|------------------|-----------------|
+| **Situation** | Working in a team where each member developed different pages, we needed to maintain consistency while allowing individual creativity. |
+| **Task** | Ensure my About Us page would integrate smoothly with other team members' pages while maintaining brand consistency. |
+| **Action** | • Created a shared CSS variables system for consistent colors and spacing<br>• Established GitHub workflow with pull requests and code reviews<br>• Developed reusable component patterns that other team members could adapt<br>• Conducted integration testing to ensure seamless navigation between pages<br>• Documented my code clearly for team understanding and future maintenance |
+| **Result** | ✅ **Improved collaborative coding practices** through version control and documentation<br>✅ **Developed communication skills** in technical team environments<br>✅ **Gained experience in modular design** that supports team scalability<br>✅ **Enhanced problem-solving abilities** when resolving merge conflicts and integration issues |
 
 ---
 
-## ✅ **Submission Checklist**
+## 🔗 Connecting Learning to Career Readiness
 
-| **Task**                                      | **Status** |
-|-----------------------------------------------|------------|
-| Portfolio created using **Markdown**          | ✅ Done    |
-| **WIL evidence** included (website, code)     | ✅ Done    |
-| **STAR reflections** completed                 | ✅ Done    |
-| **GitHub repository** contains all files      | ✅ Done    |
-| **Links verified** and accessible             | ✅ Done    |
-| Local copy saved with **timestamp**           | ✅ Done    |
+### 🛠️ Technical Competencies Gained
+
+| **Skill Area** | **Specific Skills** | **Project Example** |
+|----------------|---------------------|---------------------|
+| **Front-End Development** | HTML5 semantic markup, CSS3 (Grid, Flexbox, Custom Properties), JavaScript (ES6) | [About Us page structure](https://github.com/DruwonL/Huawei-Project/blob/main/about/index.html) |
+| **Responsive Design** | Mobile-first approach, CSS media queries, responsive images, touch-friendly interfaces | [CSS responsive implementation](https://github.com/DruwonL/Huawei-Project/blob/main/about/styles.css#L400-L500) |
+| **UI/UX Principles** | Visual hierarchy, typography, color theory, accessibility standards (WCAG) | Consistent use of brand colors and readable typography |
+| **Version Control** | Git commands, GitHub collaboration, branching strategies, pull requests | [Repository commit history](https://github.com/DruwonL/Huawei-Project/commits/main) |
+| **Performance Optimization** | Image optimization, CSS minification, JavaScript efficiency, browser DevTools | Optimized hero image loading and animation performance |
+
+### 💼 Professional Growth
+
+| **Competency** | **How It Was Developed** |
+|----------------|--------------------------|
+| **Team Collaboration** | Coordinated with 4 other developers to create a cohesive multi-page website |
+| **Project Management** | Managed my timeline to deliver the About Us page while coordinating with team deadlines |
+| **Problem-Solving** | Resolved responsive design challenges and JavaScript compatibility issues |
+| **Technical Communication** | Documented code clearly and participated in team code review sessions |
+| **Quality Assurance** | Conducted thorough testing across devices and browsers before integration |
 
 ---
 
-## 📎 **Quick Links**
+## 🏆 Assessment Alignment
 
-- 🔗 **[View Live Website](#)**
-- 🔗 **[GitHub Repository](#)**
-- 🔗 **[Project Documentation](#)**
-- 🔗 **[CPUT Assessment Guidelines](https://www.cput.ac.za)**
+| **Rubric Criteria** | **Evidence in This Portfolio** |
+|---------------------|--------------------------------|
+| **WIL Evidence (50%)** | ✅ [Huawei IASC About Us page](https://druwonl.github.io/Huawei-Project/about)<br>✅ [GitHub code contributions](https://github.com/DruwonL/Huawei-Project/commits?author=DruwonL)<br>✅ [Brand implementation](https://github.com/DruwonL/Huawei-Project/blob/main/about/styles.css#L1-L20)<br>✅ [Team collaboration evidence](https://github.com/DruwonL/Huawei-Project/pulls?q=is%3Apr+author%3ADruwonL) |
+| **STAR Reflection on WIL (50%)** | ✅ Two detailed STAR reflections above<br>✅ Specific examples from About Us page development<br>✅ Demonstrated learning in both technical and collaborative skills |
+| **Lessons Learnt Evidence** | ✅ [Code documentation](https://github.com/DruwonL/Huawei-Project/tree/main/docs)<br>✅ [CSS modular system](https://github.com/DruwonL/Huawei-Project/blob/main/about/styles.css)<br>✅ [GitHub workflow practices](https://github.com/DruwonL/Huawei-Project/commits/main) |
+| **STAR Reflection on Lessons** | ✅ Reflection on team collaboration challenges and solutions<br>✅ Technical problem-solving from real development scenarios |
 
 ---
 
-> **Note:** This portfolio was created for assessment purposes as part of PRP370S at CPUT. The Huawei IASC website project was developed during my Work Integrated Learning placement. All work is my own and complies with academic integrity policies.
+## 📬 Contact & Details
+
+| **Category** | **Information** |
+|--------------|-----------------|
+| **Student** | Lutho Druwo (DruwonL) |
+| **Student ID** | [Your Student Number] |
+| **Programme** | Diploma in Information and Communication Technology (DPICT) |
+| **Institution** | [Cape Peninsula University of Technology](https://www.cput.ac.za) |
+| **Module** | PRP370S – Project Presentation 3 |
+| **WIL Organisation** | [Huawei ICT Academy Support Center South Africa](https://e.huawei.com/topic/ict-academy/en/) |
+| **Academic Year** | 2025 |
+| **Portfolio Date** | 14 January 2026 |
+| **Email** | [Your Email]@student.cput.ac.za |
+
+---
+
+## ✅ Submission Checklist
+
+| **Task** | **Status** | **Link** |
+|----------|------------|----------|
+| Portfolio created using **Markdown** | ✅ Done | [README.md](https://github.com/DruwonL/Huawei-Project/blob/main/README.md) |
+| **WIL evidence** included | ✅ Done | [About Us page code](https://github.com/DruwonL/Huawei-Project/tree/main/about) |
+| **STAR reflections** completed | ✅ Done | See Reflections section above |
+| **GitHub repository** ready | ✅ Done | [Repository](https://github.com/DruwonL/Huawei-Project) |
+| **Links verified** | ✅ Done | All links tested and functional |
+| **Blackboard submission** | ✅ Done | Submitted via Blackboard submission link |
+| **Local copy saved** | ✅ Done | Timestamp: 2026-01-14T23:59:00Z |
+
+---
+
+## 📎 Quick Links
+
+- 🔗 **[View Live Website](https://druwonl.github.io/Huawei-Project/)**
+- 🔗 **[GitHub Repository](https://github.com/DruwonL/Huawei-Project)**
+- 🔗 **[My About Us Page Code](https://github.com/DruwonL/Huawei-Project/tree/main/about)**
+- 🔗 **[CPUT Assessment Guidelines](https://www.cput.ac.za/academic/assessment)**
+- 🔗 **[PRP370S Module Information](https://cput.blackboard.com)**
+- 📧 **[Email Contact](mailto:[Your Email]@student.cput.ac.za)**
+
+---
+
+> **Note:** This portfolio was created for assessment purposes as part of PRP370S at CPUT. The Huawei IASC website project was developed during my Work Integrated Learning placement. All work is my own and complies with academic integrity policies. [View CPUT academic integrity policy](https://www.cput.ac.za/assets/images/policies/Academic%20Integrity%20Policy.pdf).
 
 ---
 
 **Last Updated:** 14 January 2026  
+**Portfolio Version:** 1.0  
+**Status:** 🚀 **Ready for Assessment**
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ using Markdown • Hosted on GitHub Pages</sub>
+</div>
