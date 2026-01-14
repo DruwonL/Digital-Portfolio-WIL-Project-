@@ -89,7 +89,7 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 
 This visual representation of the wireframe was created before I began developing the webpage. Its purpose was to enable our team leader to review the layout and offer feedback on what elements should be included or excluded.
 
-<img width="1000" height="2000" alt="Huawei Wireframe" src="https://github.com/user-attachments/assets/7d5e80eb-cfe9-44be-8585-14d3880db098" />
+<img width="700" height="1000" alt="Huawei Wireframe" src="https://github.com/user-attachments/assets/7d5e80eb-cfe9-44be-8585-14d3880db098" />
 
 ---
 
