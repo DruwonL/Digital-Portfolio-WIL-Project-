@@ -68,9 +68,9 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 | **Skill Area** | **Specific Skills** | **Project Example** |
 |----------------|---------------------|---------------------|
 | **Front-End Development** | HTML5 semantic markup, CSS3 (Grid, Flexbox, Custom Properties), JavaScript (ES6) | [About Us page structure](https://github.com/DruwonL/Huawei-Project/blob/main/about/index.html) |
-| **Responsive Design** | Mobile-first approach, CSS media queries, responsive images, touch-friendly interfaces | [CSS responsive implementation](https://github.com/DruwonL/Huawei-Project/blob/main/about/styles.css#L400-L500) |
+| **Responsive Design** | Mobile-first approach, CSS media queries, responsive images, touch-friendly interfaces | [CSS responsive implementation](https://github.com/DruwonL/Huawei-Project/blob/main/styles.css) |
 | **UI/UX Principles** | Visual hierarchy, typography, color theory, accessibility standards (WCAG) | Consistent use of brand colors and readable typography |
-| **Version Control** | Git commands, GitHub collaboration, branching strategies, pull requests | [Repository commit history](https://github.com/DruwonL/Huawei-Project/commits/main) |
+| **Version Control** | Git commands, GitHub collaboration, branching strategies, pull requests | [Repository commit history](https://github.com/DruwonL/Huawei-Project) |
 | **Performance Optimization** | Image optimization, CSS minification, JavaScript efficiency, browser DevTools | Optimized hero image loading and animation performance |
 
 ### 💼 Professional Growth
