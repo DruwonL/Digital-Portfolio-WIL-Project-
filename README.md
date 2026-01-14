@@ -1,4 +1,4 @@
-# 🧑‍💻 **Digital Portfolio: WIL Experience – Huawei IASC Website**  
+#**Digital Portfolio: WIL Experience – Huawei IASC Website**  
 ### PRP370S Project Presentation 3 | January 2026
 
 ---
