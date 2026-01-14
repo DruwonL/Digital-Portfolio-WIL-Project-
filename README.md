@@ -8,10 +8,9 @@
 This portfolio showcases my **Work Integrated Learning (WIL) experience** during the 2025 academic year at **Huawei ICT Academy Support Center (IASC) South Africa**.
 
 **My Role:** I was responsible for **designing and developing the "About Us" page** of a collaborative website project that communicates Huawei's enterprise vision and IASC's mission.
-
-> ✅ **Live Project:** [View Huawei IASC Website](https://druwonl.github.io/Huawei-Project/)  
+  
 > ✅ **GitHub Repository:** [Source Code](https://github.com/DruwonL/Huawei-Project)  
-> ✅ **My Contribution:** ["About Us" Page Code](https://github.com/DruwonL/Huawei-Project/tree/main/about)
+> ✅ **My Contribution:** ["About Us" Page Code]((https://druwonl.github.io/Huawei-Project/))
 
 ---
 
