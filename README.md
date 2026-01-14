@@ -97,35 +97,20 @@ This visual representation of the wireframe was created before I began developin
 
 | **Category** | **Information** |
 |--------------|-----------------|
-| **Student** | Lutho Druwo (DruwonL) |
-| **Student ID** | [Your Student Number] |
+| **Student** | Druwon Lashawa |
+| **Student ID** | 222791330 |
 | **Programme** | Diploma in Information and Communication Technology (DPICT) |
 | **Institution** | [Cape Peninsula University of Technology](https://www.cput.ac.za) |
 | **Module** | PRP370S – Project Presentation 3 |
 | **WIL Organisation** | [Huawei ICT Academy Support Center South Africa](https://e.huawei.com/topic/ict-academy/en/) |
 | **Academic Year** | 2025 |
 | **Portfolio Date** | 14 January 2026 |
-| **Email** | [Your Email]@student.cput.ac.za |
-
----
-
-## ✅ Submission Checklist
-
-| **Task** | **Status** | **Link** |
-|----------|------------|----------|
-| Portfolio created using **Markdown** | ✅ Done | [README.md](https://github.com/DruwonL/Huawei-Project/blob/main/README.md) |
-| **WIL evidence** included | ✅ Done | [About Us page code](https://github.com/DruwonL/Huawei-Project/tree/main/about) |
-| **STAR reflections** completed | ✅ Done | See Reflections section above |
-| **GitHub repository** ready | ✅ Done | [Repository](https://github.com/DruwonL/Huawei-Project) |
-| **Links verified** | ✅ Done | All links tested and functional |
-| **Blackboard submission** | ✅ Done | Submitted via Blackboard submission link |
-| **Local copy saved** | ✅ Done | Timestamp: 2026-01-14T23:59:00Z |
+| **Email** | druwon.lashawa.wicomb@gmail.com |
 
 ---
 
 ## 📎 Quick Links
 
-- 🔗 **[View Live Website](https://druwonl.github.io/Huawei-Project/)**
 - 🔗 **[GitHub Repository](https://github.com/DruwonL/Huawei-Project)**
 - 🔗 **[My About Us Page Code](https://github.com/DruwonL/Huawei-Project/tree/main/about)**
 - 🔗 **[CPUT Assessment Guidelines](https://www.cput.ac.za/academic/assessment)**
