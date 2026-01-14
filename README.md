@@ -139,6 +139,4 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 
 ---
 
-**Last Updated:** 15 January 2026  
-**Portfolio Version:** 3.0  
-**Status:** 🚀 **Portfolio Ready for Review**
+**Last Updated:** 14 January 2026  
