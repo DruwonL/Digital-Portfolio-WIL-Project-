@@ -9,8 +9,8 @@ This portfolio showcases my **Work Integrated Learning (WIL) experience** during
 
 **My Role:** I was responsible for **designing and developing the "About Us" page** of a collaborative website project that communicates Huawei's enterprise vision and IASC's mission.
   
-> ✅ **GitHub Repository:** [About US Page](https://github.com/DruwonL/Huawei-Project)  
-> ✅ **My Contribution:**  [Source Code](https://druwonl.github.io/Huawei-Project/)
+> ✅ **GitHub Repository:** [Source Code](https://druwonl.github.io/Huawei-Project/)  
+> ✅ **My Contribution:**  [About US Page](https://github.com/DruwonL/Huawei-Project)
 
 ---
 
